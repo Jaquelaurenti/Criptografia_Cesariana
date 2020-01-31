@@ -1,4 +1,4 @@
-<div class="flex xs12 md8" id="instructions"><h3 class="section-title"><i aria-hidden="true" class="v-icon material-icons theme--light">info_outline</i> Instruções
+<div class="flex xs12 md8" id="instructions"><h3 class="section-title"><i aria-hidden="true">info_outline</i> Instruções
         </h3> <div><h1>Criptografia de Júlio César</h1>
 
 <p>Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondido”, e gráphein, “escrita”) é o estudo e prática de princípios e técnicas para comunicação segura na presença de terceiros, chamados “adversários”. Mas geralmente, a criptografia refere-se à construção e análise de protocolos que impedem terceiros, ou o público, de lerem mensagens privadas. Muitos aspectos em segurança da informação, como confidencialidade, integridade de dados, autenticação e não-repúdio são centrais à criptografia moderna. Aplicações de criptografia incluem comércio eletrônico, cartões de pagamento baseados em chip, moedas digitais, senhas de computadores e comunicações militares. Das Criptografias mais curiosas na história da humanidade podemos citar a criptografia utilizada pelo grande líder militar romano Júlio César para comunicar com os seus generais. Essa criptografia se baseia na substituição da letra do alfabeto avançado um determinado número de casas. Por exemplo, considerando o número de casas <strong>= 3</strong>:</p>
@@ -47,7 +47,6 @@
 <pre><code>https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=SEU_TOKEN
 </code></pre>
 
-<p>OBS: a API espera um arquivo sendo enviado como <em>multipart/form-data</em>, como se fosse enviado por um formulário HTML, com um campo do tipo <em>file</em> com o nome <strong>answer</strong>. Considere isso ao enviar o arquivo.</p>
 
 <p>O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto.</p>
 
