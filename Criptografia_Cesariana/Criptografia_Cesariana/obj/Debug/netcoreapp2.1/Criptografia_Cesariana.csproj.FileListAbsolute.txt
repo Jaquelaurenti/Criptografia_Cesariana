@@ -1,0 +1,14 @@
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\bin\Debug\netcoreapp2.1\Criptografia_Cesariana.deps.json
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\bin\Debug\netcoreapp2.1\Criptografia_Cesariana.runtimeconfig.json
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\bin\Debug\netcoreapp2.1\Criptografia_Cesariana.runtimeconfig.dev.json
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\bin\Debug\netcoreapp2.1\Criptografia_Cesariana.dll
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\bin\Debug\netcoreapp2.1\Criptografia_Cesariana.pdb
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.csprojAssemblyReference.cache
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.csproj.CoreCompileInputs.cache
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.RazorAssemblyInfo.cache
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.RazorAssemblyInfo.cs
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.AssemblyInfoInputs.cache
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.AssemblyInfo.cs
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.RazorTargetAssemblyInfo.cache
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.dll
+C:\Users\jaqueline.carvalho\source\repos\Criptografia_Cesariana\Criptografia_Cesariana\Criptografia_Cesariana\obj\Debug\netcoreapp2.1\Criptografia_Cesariana.pdb
